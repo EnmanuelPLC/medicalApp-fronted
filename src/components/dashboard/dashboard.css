@@ -1,0 +1,34 @@
+.user-area {
+  display: flex;
+  justify-content: space-between;
+  height: 8%;
+}
+
+.work-area {
+  height: 92%;
+}
+
+.dashboard-wrapper {
+  height: 100%;
+}
+
+.modal-form {
+  width: auto;
+}
+
+.recipe-item {
+  display: flex;
+  align-items: center;
+  width: 100%;
+  justify-content: space-between;
+  padding-top: 5px;
+}
+
+.recipe-actions {
+  display: flex;
+  justify-content: space-between;
+}
+
+.recipe-actions:last-child {
+  margin-right: 250px;
+}
